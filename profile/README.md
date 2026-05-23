@@ -15,3 +15,5 @@ A desktop and web interface for running coding agents in real projects. Long-run
 ---
 
 Get in touch: [hello@shiori.ai](mailto:hello@shiori.ai)
+
+© 2026 Shiori LLC
